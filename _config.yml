@@ -2,12 +2,17 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 # Setup
 title:            Software Solved
 tagline:          'A story about making it real'
 description:      'What happens when an "architect" returns to his developer roots and tries to write propper software.'
 url:              https://softwaresolved.github.io/blog
 baseurl:          /
+permalink:        /blog
 
 author:
   name:           'Phil Smith'
