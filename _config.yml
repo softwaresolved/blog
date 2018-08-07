@@ -5,7 +5,7 @@ highlighter:      pygments
 # Setup
 title:            Software Solved
 tagline:          'A story about making it real'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'What happens when an "architect" returns to his developer roots and trys to write propper software.'
 url:              https://softwaresolved.github.io/blog
 baseurl:          /
 
