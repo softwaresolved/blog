@@ -7,7 +7,7 @@ title:            Software Solved
 tagline:          'A story about making it real'
 description:      'What happens when an "architect" returns to his developer roots and tries to write propper software.'
 url:              https://softwaresolved.github.io/blog
-baseurl:          /blog
+baseurl:          /
 
 author:
   name:           'Phil Smith'
